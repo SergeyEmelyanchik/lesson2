@@ -18,4 +18,6 @@
     <string name="button_equal">=</string>
     <string name="button_clear">AC</string>
     <string name="button_del">DEL</string>
+    <string name="Results">Results</string>
+
 </resources>
